@@ -1,0 +1,156 @@
+Bears:
+ -Snuggles
+     ID: Bear_1
+     Color: Brown
+     Sex: Male
+     Age: 7
+     Weight: 320
+     Estimated Birth Date: 2018-04-15
+     Location: Alaska Zoo, Alaska
+
+ -Paddington
+     ID: Bear_2
+     Color: Black
+     Sex: Female
+     Age: 25
+     Weight: 425
+     Estimated Birth Date: 2000-04-15
+     Location: Woodland park Zoo, Washington
+
+ -Bungle
+     ID: Bear_3
+     Color: Black
+     Sex: Female
+     Age: 4
+     Weight: 355
+     Estimated Birth Date: 2021-10-15
+     Location: Woodland park Zoo, Washington
+
+ -Lippy
+     ID: Bear_4
+     Color: Brown
+     Sex: Male
+     Age: 4
+     Weight: 405
+     Estimated Birth Date: 2021-04-15
+     Location: Alaska Zoo, Alaska
+
+Total Bears: 4
+
+Hyenas:
+ -Madoa
+     ID: Hyena_1
+     Color: Tan
+     Sex: Female
+     Age: 4
+     Weight: 70
+     Estimated Birth Date: 2021-04-15
+     Location: Friguia Park, Tunisia
+
+ -Nne
+     ID: Hyena_2
+     Color: Brown
+     Sex: Male
+     Age: 12
+     Weight: 150
+     Estimated Birth Date: 2013-10-15
+     Location: Friguia Park, Tunisia
+
+ -Prince Nevarah
+     ID: Hyena_3
+     Color: Black
+     Sex: Male
+     Age: 4
+     Weight: 120
+     Estimated Birth Date: 2021-04-15
+     Location: Friguia Park, Tunisia
+
+ -Lou
+     ID: Hyena_4
+     Color: Black and tan striped
+     Sex: Female
+     Age: 8
+     Weight: 105
+     Estimated Birth Date: 2017-01-15
+     Location: Friguia Park, Tunisia
+
+Total Hyenas: 4
+
+Lions:
+ -Scar
+     ID: Lion_1
+     Color: Tan
+     Sex: Female
+     Age: 6
+     Weight: 300
+     Estimated Birth Date: 2019-04-15
+     Location: Zanzibar, Tanzania
+
+ -Simba
+     ID: Lion_2
+     Color: Dark tan
+     Sex: Female
+     Age: 12
+     Weight: 375
+     Estimated Birth Date: 2013-01-15
+     Location: KopeLion, Tanzania
+
+ -Kiara
+     ID: Lion_3
+     Color: Golden
+     Sex: Male
+     Age: 22
+     Weight: 450
+     Estimated Birth Date: 2003-10-15
+     Location: Zanzibar, Tanzania
+
+ -King
+     ID: Lion_4
+     Color: Tan and brown
+     Sex: Female
+     Age: 4
+     Weight: 275
+     Estimated Birth Date: 2021-04-15
+     Location: KopeLion, Tanzania
+
+Total Lions: 4
+
+Tigers:
+ -Jiba
+     ID: Tiger_1
+     Color: Gold and tan stripes
+     Sex: Male
+     Age: 2
+     Weight: 270
+     Estimated Birth Date: 2023-04-15
+     Location: Dhaka, Bangladesh
+
+ -Ryker
+     ID: Tiger_2
+     Color: Black stripes
+     Sex: Female
+     Age: 4
+     Weight: 400
+     Estimated Birth Date: 2021-04-15
+     Location: Dhaka, Bangladesh
+
+ -Cuddles
+     ID: Tiger_3
+     Color: Gold and tan
+     Sex: Male
+     Age: 18
+     Weight: 300
+     Estimated Birth Date: 2007-10-15
+     Location: Bardia, Nepal
+
+ -Tigger
+     ID: Tiger_4
+     Color: Black stripes
+     Sex: Female
+     Age: 3
+     Weight: 285
+     Estimated Birth Date: 2022-04-15
+     Location: Bardia, Nepal
+
+Total Tigers: 4
+
